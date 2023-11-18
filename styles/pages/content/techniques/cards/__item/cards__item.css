@@ -1,0 +1,6 @@
+.cards__item{
+  flex-basis: calc(33.33% - 100px);
+  flex-shrink: 0;
+  text-align: center;
+}
+

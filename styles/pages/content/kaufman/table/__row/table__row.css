@@ -1,0 +1,6 @@
+.table__row{
+  margin-top: 80px;
+  display: flex;
+  justify-content: space-between;
+  gap: 20px;
+}

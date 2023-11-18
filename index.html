@@ -4,26 +4,190 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <link rel="stylesheet" href="styles/normalize.css">
-  <link rel="stylesheet" href="styles/style.css">
+  <link rel="stylesheet" href="styles/pages/header/header.css">
+  <link rel="stylesheet" href="styles/pages/content/description/description.css">
+  <link rel="stylesheet" href="styles/pages/content/kaufman/kaufman.css">
+  <link rel="stylesheet" href="styles/pages/footer/footer.css">
+  <link rel="stylesheet" href="styles/pages/content/logo/logo.css">
+  <link rel="stylesheet" href="styles/pages/content/techniques/techniques.css">
+  <link rel="stylesheet" href="styles/pages/content/oakley/oakley.css">
+  <link rel="stylesheet" href="styles/pages/content/feynman/feynman.css">
+  <link rel="stylesheet" href="styles/pages/content/resources/resources.css">
+  <link rel="stylesheet" href="styles/animation/rotation/rotation.css">
   <title>Learning how to learn</title>
 </head>
 <body>
   <div class="page">
     <header class="header">
+      <div class="logo logo_place_header"></div>
       <h1 class="header__title">Learning How to Learn</h1>
-      <p class="header__subtitle">The most effective, cutting-edge learning techniques that you can apply to your daily life
-        <a class="header__link" href="#" target="_blank">Learn more &rarr;</a>
+      <p class="header__subtitle">
+          The most effective, cutting-edge learning techniques that you can apply to your daily life
+          <a class="header__link" href="#description-section">Learn more &rarr;</a>
       </p>
-      <img class="header__main-illustration" src="images/header-image.png" alt="Изображение шапки">
-      <div class="header__square-pic"></div>
+      <img class="header__main-illustration" src="images/header/header-image.png" alt="Header image">
+      <div class="header__square-pic rotation"></div>
     </header>
+
     <main class="content">
-      <section class="description">
+      <section class="description" id="description-section">
+        <div class="two-columns">
+          <h3 class="two-columns__brief">The main problem with education</h3>
+          <div class="two-columns__main-text">
+            <p class="two-columns__paragraph">
+              Whether it's at school or university, the one thing no one ever teaches you is
+              how to teach yourself. We often just end up drilling specific exercises and
+              mindlessly memorizing information so that when exam time comes around,
+              we pass the test. But once the test is over, that information has outlived its
+              usefulness, and there's no guarantee that information will be retained. In the
+              end, we're really just learning how to pass our tests.
+            </p>
+            <p class="two-columns__paragraph">
+             <span class="two-columns__span-accent">Here's the real question: </span>Does this approach of repetition and
+              memorization help us truly understand the subject material? The academic
+              consensus nowadays is that it doesn't. In fact, what's more important than
+              any individual topic is knowing how to study, but for some reason, this point
+              įs often overlooked. So, what can we do to remedy this?
+            </p>
+            <p class="two-columns__paragraph">
+              Well, there are various techniques and exercises that can be applied to the
+              educational process to help make it more efficient and engaging. Keep
+              scrolling to uncover some of the secrets of effective learning.
+            </p>
+          </div>
+        </div>
+      </section>
+      <section class="techniques">
+        <h2 class="section-title techniques__section-title">Learning Techniques</h2>
+        <h3 class="section-subtitle techniques__section-subtitle">Five Strategies from Barbara Oakley</h3>
+        <div class="cards">
+          <div class="cards__item">
+            <div class="cards__image">
+              <img src="images/techniques/cards-attention.png" alt="Ways of thinking">
+            </div>
+            <h4 class="cards__title">Two Ways of Thinking</h4>
+            <p class="cards_description">Deep understanding comes from being able to toggle back and forth between focused and diffused thinking.</p>
+          </div>
+          <div class="cards__item">
+            <div class="cards__image">
+              <img src="images/techniques/cards-recall.png" alt="Recall">
+            </div>
+            <h4 class="cards__title">Recall</h4>
+            <p class="cards_description">Improving your ability to remember key bits of information helps to connect different parts of the brain.</p>
+          </div>
+          <div class="cards__item">
+            <div class="cards__image">
+              <img src="images/techniques/cards-interliving.png" alt="Interleaving">
+            </div>
+            <h4 class="cards__title">Interleaving</h4>
+            <p class="cards_description">When you learn multiple skills at the same time, they reinforce each other.</p>
+          </div>
+          <div class="cards__item">
+            <div class="cards__image">
+              <img src="images/techniques/cards-question.png" alt="Questions">
+            </div>
+            <h4 class="cards__title">Questions</h4>
+            <p class="cards_description">When listening to your teacher, think up a good question, something that you're really itching to know.</p>
+          </div>
+          <div class="cards__item">
+            <div class="cards__image">
+              <img src="images/techniques/cards-competence.png" alt="Illusion of Competence">
+            </div>
+            <h4 class="cards__title">Illusion of Competence</h4>
+            <p class="cards_description">Test yourself, write it down, tell other people, and repeat the process in different settings. Only then can you be truly certain you've understood something.</p>
+          </div>
+        </div>
+      </section>
+      <section class="oakley">
+        <div class="two-columns">
+          <h3 class="two-columns__brief">Barbara Oakley’s story.</h3>
+          <div class="two-columns__main-text">
+            <p class="two-columns__paragraph">
+              Math didn't come naturally to Barbara in childhood. She thought of herself as more of a humanities person, and not a brilliant one at that. With an eye to becoming a linguist, after school she enlisted in the army, who sent her to learn Russian. After several years of service, during which she rose to the rank of Captain, Barbara left the army and decided to study engineering. In was during this time that she developed her learning methodology as she was forced to reprogram her brain for a different kind of learning. It turns out that when something doesn't come naturally to you, having to work hard to gain the knowledge that other people may get at first glance gives you a deeper, more comprehensive understanding of the subject matter.
+            </p>
+          </div>
+        </div>
+      </section>
+      <section class="feynman">
+        <h2 class="feynman__title">The Feynman Technique</h2>
+        <h3 class="feynman__subtitle">Learn without forgetting</h3>
+        <a class="feynman__link" target="_blank" href="https://fs.blog/feynman-learning-technique/">More&rarr;</a>
       </section>
       <section class="kaufman">
+        <h2 class="section-title kaufman__section-title">Ten principles of rapid skill acquisition</h2>
+        <h3 class="section-subtitle">by Josh Kaufman</h3>
+        <div class="kaufman__triangle rotation"><img src="images/kaufman/kaufman-triangle.svg" alt="blue triangle"></div>
+        <div class="table">
+          <div class="table__row">
+            <div class="table__cell">
+              <h4 class="table__heading">1</h4>
+              <p class="table__text">Choose a lovable project</p>
+            </div>
+            <div class="table__cell">
+              <h4 class="table__heading">2</h4>
+              <p class="table__text">Focus your energy on one skill at a time</p>
+            </div>
+            <div class="table__cell">
+              <h4 class="table__heading">3</h4>
+              <p class="table__text">Define your target performance level</p>
+            </div>
+            <div class="table__cell">
+              <h4 class="table__heading">4</h4>
+              <p class="table__text">Deconstruct the skill into sub-skills</p>
+            </div>
+            <div class="table__cell">
+              <h4 class="table__heading">5</h4>
+              <p class="table__text">Obtain critical tools</p>
+            </div>
+          </div>
+          <div class="table__row">
+            <div class="table__cell">
+              <h4 class="table__heading">6</h4>
+              <p class="table__text">Eliminate barriers to practice</p>
+            </div>
+            <div class="table__cell">
+              <h4 class="table__heading">7</h4>
+              <p class="table__text">Make dedicated time for practice</p>
+            </div>
+            <div class="table__cell">
+              <h4 class="table__heading">8</h4>
+              <p class="table__text">Create fast feedback loops</p>
+            </div>
+            <div class="table__cell">
+              <h4 class="table__heading">9</h4>
+              <p class="table__text">Practice by the clock in short bursts</p>
+            </div>
+            <div class="table__cell">
+              <h4 class="table__heading">10</h4>
+              <p class="table__text">Emphasize quantity and speed</p>
+            </div>
+          </div>
+        </div>
+      </section>
+      <section class="resources">
+        <div class="section-title resources__section-title">Useful resources</div>
+        <div class="section-subtitle resources__section-subtitle">Further materials on learning techniques and hacks.</div>
+        <div class="resources__logo-zone">
+          <a target="_blank" class="resources__link" href="https://ed.ted.com/search?qs=learning+techniques+and+hacks">
+            <img class="resources__logo" src="images/resources/resources-tedED.png" alt="tedED logo">
+          </a>
+          <a target="_blank" class="resources__link" href="https://knottedbrains.medium.com/top-learning-hacks-to-learn-more-efficiently-effectively-e076989986bb">
+            <img class="resources__logo" src="images/resources/resources-Medium.png" alt="Medium logo">
+          </a>
+          <a target="_blank" class="resources__link" href="https://www.dezeen.com/">
+            <img class="resources__logo" src="images/resources/resources-dezeen.png" alt="Dezeen logo">
+          </a>
+          <a target="_blank" class="resources__link" href="https://www.goodreads.com/book/show/49537956-studying-techniques">
+            <img class="resources__logo" src="images/resources/resources-goodreads.png" alt="Goodreads logo">
+          </a>
+        </div>
       </section>
     </main>
     <footer class="footer">
+      <div class="footer__content">
+        <div class="logo logo_place_footer"></div>
+        <p class="footer__author">&copy;2023. Mariia Postovik</p>
+      </div>
     </footer>
   </div>
 </body>

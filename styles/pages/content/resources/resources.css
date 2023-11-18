@@ -1,0 +1,11 @@
+@import "./__logo-zone/resources__logo-zone.css";
+@import "./__link/resources__link.css";
+@import "./__logo/resources__logo.css";
+@import "./__section-subtitle/resources__section-subtitle.css";
+@import "./__section-title/resources__section-title.css";
+
+.resources{
+  padding-top: 100px;
+  background-color: #fff;
+  text-align: center;
+}
