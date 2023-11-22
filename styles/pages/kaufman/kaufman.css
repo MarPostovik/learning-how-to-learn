@@ -1,11 +1,8 @@
 @import '../section-title/section-title.css';
-@import './__triangle/kaufman__triangle.css';
 @import '../section-subtitle/section-subtitle.css';
-@import './table/__cell/table__cell.css';
-@import './table/__heading/table__heading.css';
-@import './table/__text/table__text.css';
-@import './table/__row/table__row.css';
 @import './__section-title/kaufman__section-title.css';
+@import './__triangle/kaufman__triangle.css';
+@import './__table/table.css';
 
 .kaufman{
   background-color: #1f1f1f;

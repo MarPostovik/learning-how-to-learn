@@ -1,0 +1,12 @@
+@import './__cell/table__cell.css';
+@import './__heading/table__heading.css';
+@import './__text/table__text.css';
+
+.table{
+  margin-top: 80px;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+  grid-column-gap: 20px;
+  grid-row-gap: 80px;
+  z-index: 2;
+}

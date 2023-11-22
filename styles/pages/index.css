@@ -1,0 +1,29 @@
+@import '../animation/rotation.css';
+@import './header/header.css';
+@import './kaufman/kaufman.css';
+@import './description/description.css';
+@import './footer/footer.css';
+@import './logo/logo.css';
+@import './techniques/techniques.css';
+@import './oakley/oakley.css';
+@import './feynman/feynman.css';
+@import './resources/resources.css';
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body{
+  font-family: 'Helvetica Neue', 'Arial', sans-serif;
+}
+.page {
+  min-width: 1100px;
+  max-width: 1600px;
+  margin: 0 auto;
+}
+/* Colors */
+/* white (background) #fff
+dark grey (background) #1f1f1f
+light grey (background) #f2f2f2
+blue (links, shapes) #2f80ed
+black (text) #000000*/
