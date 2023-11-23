@@ -38,5 +38,5 @@ Technologies that I've used:
 * [Documentation about display grid](https://developer.mozilla.org/ru/docs/Web/CSS/CSS_grid_layout/Basic_concepts_of_grid_layout)
 ## Contacts
 * Email [mariiapostovik@gmail.com](mailto:mariiapostovik@gmail.com)
-* Phone number [+380931579663](tel:+380931579663)
+* Phone number [+380931579663](+380931579663)
 * LinkedIn [Link](https://www.linkedin.com/in/mariia-postovik-977aaa2a0/)
