@@ -12,16 +12,17 @@ This is my first project at Palianytsia Foundation and it is aimed at providing 
 * [Contacts](https://github.com/MarPostovik/learning-how-to-learn/#contacts)
 
 ## Website Structure
+The site consists of a header, footer, and main content.
 
-
-## Project Objective (Use of specific knowledge, methods, programming languages, practice, or other)  
+## Project Objective  
+(Use of specific knowledge, methods, programming languages, practice, or other)  
 Technologies that I've used:  
 1. HTML.
 2. CSS.
 3. BEM
 4. BEM Neasted
 
-## Source Links (researched material, videos, articles, books, etc.)
-
+## Source Links  
+(researched material, videos, articles, books, etc.)
 ## Contacts
 
