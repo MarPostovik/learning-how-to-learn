@@ -1,4 +1,4 @@
-# learning-how-to-learn
+# Learning How To Learn
 This is my first project at Palianytsia Foundation and it is aimed at providing valuable information and resources about effective learning techniques.  
 [Website link](https://marpostovik.github.io/learning-how-to-learn/)
 ## Navigation
