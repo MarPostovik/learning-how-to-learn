@@ -9,10 +9,9 @@ This is my first project at Palianytsia Foundation and it is aimed at providing 
 ## Website Structure
 The Learning How to Learn is an informative landing page with a brief overview of the project's objectives.
 The Learning How to Learn website consists of:  
-* Header
-* Main content
-* Footer
-  
+* [Header](https://github.com/MarPostovik/learning-how-to-learn/#header)
+* [Main content](https://github.com/MarPostovik/learning-how-to-learn/#main-content)
+* [Footer](https://github.com/MarPostovik/learning-how-to-learn/#footer)
 ### Header 
 The header contains the name of the site, animated background, logo of the company, and link to some useful techniques.
 ### Main content
