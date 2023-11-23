@@ -1,5 +1,5 @@
 # learning-how-to-learn
-This is my first project at Palianytsia Foundation and it is aimed at providing valuable information and resources about effective learning techniques.
+This is my first project at Palianytsia Foundation and it is aimed at providing valuable information and resources about effective learning techniques.  
 [Website link](https://marpostovik.github.io/learning-how-to-learn/)
 ## Navigation
 * [Website Structure](https://github.com/MarPostovik/learning-how-to-learn/#website-structure)
@@ -35,6 +35,7 @@ Technologies that I've used:
 * [Documentation on BEM Neasted](https://palianytsia.notion.site/BEM-Nested-2634c3270a6c49adb685c4b863539db4)
 * [Video about BEM](https://youtu.be/HihYQVuH64U?si=5-YusNUL0OznbDSQ)
 * [Documentation about display grid](https://developer.mozilla.org/ru/docs/Web/CSS/CSS_grid_layout/Basic_concepts_of_grid_layout)
+* [Documentation about Readme.md](https://palianytsia.notion.site/README-md-ad133da59b894e7cb4dc4cbc711933f5)
 ## Contacts
 * Email [mariiapostovik@gmail.com](mailto:mariiapostovik@gmail.com)
 * Phone number [+380931579663](+380931579663)
