@@ -6,10 +6,10 @@ This is my first project at Palianytsia Foundation and it is aimed at providing 
 
 ## Navigation
 
-* [Website Structure](https://github.com/MarPostovik/learning-how-to-learn/README.md#website-structure)
-* [Project Objective](https://github.com/MarPostovik/learning-how-to-learn/README.md#project-objective)
-* [Source links](https://github.com/MarPostovik/learning-how-to-learn/README.md#source-links)
-* [Contacts](https://github.com/MarPostovik/learning-how-to-learn/README.md#contacts)
+* [Website Structure](https://github.com/MarPostovik/learning-how-to-learn/#website-structure)
+* [Project Objective](https://github.com/MarPostovik/learning-how-to-learn/#project-objective)
+* [Source links](https://github.com/MarPostovik/learning-how-to-learn/#source-links)
+* [Contacts](https://github.com/MarPostovik/learning-how-to-learn/#contacts)
 
 ## Website Structure
 
