@@ -76,12 +76,3 @@
 @import '../blocks/footer/__author/footer__author.css';
 @import '../blocks/footer/footer.css';
 
-*{
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
-}
-body{
-  font-family: 'Helvetica Neue', 'Arial', sans-serif;
-}
-
