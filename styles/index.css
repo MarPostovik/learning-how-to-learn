@@ -12,8 +12,8 @@
 
 /* Logo */
 @import '../blocks/logo/logo.css';
-@import '../blocks/logo/place/logo_place_footer.css';
-@import '../blocks/logo/place/logo_place_header.css';
+@import '../blocks/logo/_place/logo_place_footer.css';
+@import '../blocks/logo/_place/logo_place_header.css';
 
 /* Header */
 @import '../blocks/header/__link/header__link.css';
