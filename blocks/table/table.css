@@ -5,4 +5,5 @@
   grid-column-gap: 20px;
   grid-row-gap: 80px;
   z-index: 2;
+  list-style-type: none;
 }
